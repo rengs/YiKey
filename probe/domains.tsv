@@ -1,0 +1,100 @@
+zh	请检查3号井抽油机的冲次和冲程。
+zh	示功图显示这口井供液不足，泵效只有35%。
+zh	本月含水率上升到92%，需要调整注水井的配注量。
+zh	电潜泵过载停机，请检查变频器和动液面。
+zh	地面集输系统的计量间和集油干线需要清蜡。
+zh	油井回压偏高，可能是集输管线结蜡。
+zh	注水井井口压力升高，怀疑注水管柱结垢。
+zh	联合站的三相分离器出口含油超标。
+zh	这口井下一步计划压裂改造并补孔。
+zh	检泵作业发现抽油杆断脱，油管漏失。
+en	The sucker rod pump shows a fluid pound on the dynamometer card.
+en	Water cut increased after the injector was put back on line.
+en	Reduce the strokes per minute and lower the pump setting depth.
+en	The electric submersible pump tripped on underload this morning.
+en	Check the casing pressure and the dynamic fluid level before the workover.
+en	The gathering system needs a pigging run to remove paraffin deposition.
+en	Produced water reinjection is limited by the injection pressure.
+en	The water flooding pattern needs a new injection-production ratio.
+en	The polished rod load exceeded the rating of the pumping unit.
+en	Run a pressure buildup test on the producing well.
+zh	大语言模型的思维链推理在复杂问题上效果更好。
+zh	我们用检索增强生成把企业知识库接到大模型上。
+zh	用LoRA微调后，幻觉明显减少。
+zh	提示词工程和上下文窗口长度都会影响回答质量。
+zh	模型量化以后推理延迟降低了一半。
+zh	向量数据库负责存储文本嵌入。
+zh	训练集和验证集要分开，防止过拟合。
+zh	多模态模型可以同时理解图片和文字。
+zh	智能体会调用工具完成多步骤任务。
+zh	强化学习从人类反馈中对齐模型行为。
+en	The large language model hallucinates when the context window is full.
+en	We use retrieval-augmented generation with a vector database.
+en	Fine-tuning with LoRA reduced the training cost.
+en	The transformer architecture relies on self-attention.
+en	Model quantization cuts inference latency on edge devices.
+en	The mixture of experts model routes tokens to different experts.
+en	Prompt engineering improves zero-shot performance.
+en	The embedding model maps sentences into a vector space.
+en	Overfitting appears when the validation loss starts rising.
+en	Reinforcement learning from human feedback aligns the model.
+zh	这个接口的单元测试覆盖率太低了。
+zh	请在合并请求之前跑完持续集成流水线。
+zh	数据库连接池满了，导致服务超时。
+zh	前端调用后端的RESTful接口时出现跨域问题。
+zh	微服务之间用消息队列解耦。
+zh	上线前要做回滚方案和灰度发布。
+zh	这个函数有内存泄漏，需要重构。
+zh	代码评审发现了一个空指针异常。
+zh	容器编排用Kubernetes，镜像放在私有仓库。
+zh	日志里有大量死锁告警。
+en	The unit test coverage dropped after the last merge request.
+en	The continuous integration pipeline failed on the linting step.
+en	We need a rollback plan before the canary release.
+en	The connection pool is exhausted under high concurrency.
+en	Refactor this module to remove the memory leak.
+en	The message queue decouples the microservices.
+en	A null pointer exception crashed the backend service.
+en	Use dependency injection to make the code testable.
+en	The load balancer routes traffic to healthy instances.
+en	Version control history shows who introduced the regression bug.
+zh	压力变送器输出4-20mA信号，需要重新标定零点和量程。
+zh	电磁流量计的测量精度受介质电导率影响。
+zh	热电偶冷端补偿没做好，温度示值偏高。
+zh	液位计的迁移量设置错误。
+zh	请检查差压变送器的引压管有没有堵塞。
+zh	超声波流量计安装需要足够的直管段。
+zh	这台仪表的重复性和线性度都不达标。
+zh	可燃气体探测器每季度要做一次标定。
+zh	调节阀的定位器反馈信号漂移。
+zh	称重传感器的零点漂移太大。
+en	The pressure transmitter drifts; recalibrate the zero and span.
+en	The thermocouple reading is unstable because of electromagnetic interference.
+en	The vortex flowmeter needs a straight pipe run upstream.
+en	Check the impulse lines of the differential pressure transmitter.
+en	The accuracy class of this gauge is 0.5.
+en	The level transmitter uses guided wave radar.
+en	The control valve positioner shows a hysteresis problem.
+en	The gas detector alarm set point is 20% LEL.
+en	A strain gauge load cell measures the polished rod load.
+en	The signal isolator protects the analog input card.
+zh	单片机通过SPI读取模数转换器的数据。
+zh	看门狗定时器没有及时喂狗，系统复位了。
+zh	用串口打印调试信息，波特率设为115200。
+zh	中断服务程序里不要做耗时操作。
+zh	这块电路板上的晶振不起振。
+zh	通过CAN总线把数据上传到RTU。
+zh	请检查GPIO的上拉电阻配置。
+zh	固件升级用的是引导加载程序。
+zh	用DMA搬运数据可以减轻CPU负担。
+zh	低功耗模式下实时时钟仍然在运行。
+en	The microcontroller reads the ADC through DMA.
+en	The watchdog timer reset the board after a hard fault.
+en	Configure the UART baud rate and enable the interrupt.
+en	The bootloader verifies the firmware image before jumping.
+en	The I2C bus hangs when the pull-up resistors are missing.
+en	The RTOS scheduler starves the low-priority task.
+en	Flash the firmware through the JTAG debugger.
+en	The PCB layout needs better decoupling capacitors.
+en	The PWM output drives the motor driver.
+en	The real-time clock keeps time in low-power mode.

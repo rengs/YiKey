@@ -1,0 +1,144 @@
+zh	检查⟦T1⟧的冲次和冲程。	Check the punch and stroke of ⟦T1⟧.
+zh	今天⟦T1⟧的⟦T2⟧偏高，需要调整。	Today's ⟦T1⟧'s ⟦T2⟧ is high and needs to be adjusted.
+zh	请把⟦T2⟧数据和⟦T3⟧一起发给我。	Please send me the ⟦T2⟧ data together with ⟦T3⟧.
+zh	⟦T1⟧停机后，⟦T3⟧显示供液不足。	⟦T1⟧After shutdown, ⟦T3⟧ shows insufficient liquid supply.
+zh	联合站的⟦T2⟧已经上传到平台。	The ⟦T2⟧ of the joint station has been uploaded to the platform.
+zh	这口井的⟦T3⟧有问题。	There is a problem with the ⟦T3⟧ of this well.
+en	Please check the ⟦T1⟧ on well 12.	请检查井12上的⟦T1⟧。
+en	The ⟦T1⟧ and the ⟦T2⟧ were replaced yesterday.	昨天更换了⟦T1⟧和⟦T2⟧。
+en	⟦T2⟧ data shows the ⟦T3⟧ is too high.	⟦T2⟧数据显示⟦T3⟧太高。
+en	We need to tune the ⟦T1⟧ before deployment.	我们需要在部署前调整⟦T1⟧。
+en	Send me the ⟦T3⟧ report by Friday.	周五之前把⟦T3⟧报告发给我。
+en	⟦T1⟧ failed after the firmware update.	⟦T1⟧在固件更新后失败。
+zh	检查XZQT1的冲次和冲程。	Check the punch and stroke of XZQT1.
+zh	今天XZQT1的XZQT2偏高，需要调整。	Today, XZQT1's XZQT2 is high and needs to be adjusted.
+zh	请把XZQT2数据和XZQT3一起发给我。	Please send me the XZQT2 data together with XZQT3.
+zh	XZQT1停机后，XZQT3显示供液不足。	After XZQT1 stopped, XZQT3 showed insufficient liquid supply.
+zh	联合站的XZQT2已经上传到平台。	XZQT2 of the joint station has been uploaded to the platform.
+zh	这口井的XZQT3有问题。	There is something wrong with the XZQT3 of this well.
+en	Please check the XZQT1 on well 12.	请检查12号井的XZQT1。
+en	The XZQT1 and the XZQT2 were replaced yesterday.	XZQT1和XZQT2昨天被替换了。
+en	XZQT2 data shows the XZQT3 is too high.	XZQT2数据显示XZQT3过高。
+en	We need to tune the XZQT1 before deployment.	我们需要在部署前调整XZQT1。
+en	Send me the XZQT3 report by Friday.	在周五之前把XZQT3报告发给我。
+en	XZQT1 failed after the firmware update.	XZQT1在固件更新后失败。
+zh	检查XZQ1的冲次和冲程。	Check the punch and stroke of XZQ1.
+zh	今天XZQ1的XZQ2偏高，需要调整。	Today, the XZQ2 of XZQ1 is high and needs to be adjusted.
+zh	请把XZQ2数据和XZQ3一起发给我。	Please send me the XZQ2 data together with XZQ3.
+zh	XZQ1停机后，XZQ3显示供液不足。	After XZQ1 stopped, XZQ3 showed insufficient liquid supply.
+zh	联合站的XZQ2已经上传到平台。	XZQ2 of the joint station has been uploaded to the platform.
+zh	这口井的XZQ3有问题。	There is something wrong with the XZQ3 of this well.
+en	Please check the XZQ1 on well 12.	请检查井12上的XZQ1。
+en	The XZQ1 and the XZQ2 were replaced yesterday.	XZQ1和XZQ2昨天被替换了。
+en	XZQ2 data shows the XZQ3 is too high.	XZQ2数据显示XZQ3太高。
+en	We need to tune the XZQ1 before deployment.	我们需要在部署前调整XZQ1。
+en	Send me the XZQ3 report by Friday.	在周五之前把XZQ3报告发给我。
+en	XZQ1 failed after the firmware update.	XZQ1在固件更新后失败。
+zh	检查ZQXA的冲次和冲程。	Check the punch and stroke of ZQXA.
+zh	今天ZQXA的ZQXB偏高，需要调整。	Today, ZQXA's ZQXB is high and needs to be adjusted.
+zh	请把ZQXB数据和ZQXC一起发给我。	Please send me the ZQXB data together with ZQXC.
+zh	ZQXA停机后，ZQXC显示供液不足。	After ZQXA stopped, ZQXC showed insufficient liquid supply.
+zh	联合站的ZQXB已经上传到平台。	ZQXB of the joint station has been uploaded to the platform.
+zh	这口井的ZQXC有问题。	There is something wrong with the ZQXC of this well.
+en	Please check the ZQXA on well 12.	请检查井12上的ZQXA。
+en	The ZQXA and the ZQXB were replaced yesterday.	ZQXA和ZQXB昨天被替换了。
+en	ZQXB data shows the ZQXC is too high.	ZQXB数据显示ZQXC过高。
+en	We need to tune the ZQXA before deployment.	我们需要在部署前调整ZQXA。
+en	Send me the ZQXC report by Friday.	周五之前把ZQXC报告发给我。
+en	ZQXA failed after the firmware update.	固件更新后 ZQXA 失败。
+zh	检查[T1]的冲次和冲程。	Check the punch and stroke of [T1].
+zh	今天[T1]的[T2]偏高，需要调整。	Today's [T2] of [T1] is high and needs to be adjusted.
+zh	请把[T2]数据和[T3]一起发给我。	Please send me the [T2] data together with [T3].
+zh	[T1]停机后，[T3]显示供液不足。	[T1] After the shutdown, [T3] shows insufficient liquid supply.
+zh	联合站的[T2]已经上传到平台。	The [T2] of the joint station has been uploaded to the platform.
+zh	这口井的[T3]有问题。	There is something wrong with the [T3] of this well.
+en	Please check the [T1] on well 12.	请检查井12上的[T1]。
+en	The [T1] and the [T2] were replaced yesterday.	昨天更换了[T1]和[T2]。
+en	[T2] data shows the [T3] is too high.	[T2]数据显示[T3]太高了。
+en	We need to tune the [T1] before deployment.	我们需要在部署前调整[T1]。
+en	Send me the [T3] report by Friday.	在周五之前把[T3]报告发给我。
+en	[T1] failed after the firmware update.	[T1]在固件更新后失败。
+zh	检查{{1}}的冲次和冲程。	Check the punch and stroke of {{1}}.
+zh	今天{{1}}的{{2}}偏高，需要调整。	Today, {{1}}'s {{2}} is too high and needs to be adjusted.
+zh	请把{{2}}数据和{{3}}一起发给我。	Please send me the {{2}} data together with {{3}}.
+zh	{{1}}停机后，{{3}}显示供液不足。	After {{1}} stops, {{3}} shows that the liquid supply is insufficient.
+zh	联合站的{{2}}已经上传到平台。	The {{2}} of the joint station has been uploaded to the platform.
+zh	这口井的{{3}}有问题。	There is something wrong with the {{3}} of this well.
+en	Please check the {{1}} on well 12.	请检查井12上的{{1}}。
+en	The {{1}} and the {{2}} were replaced yesterday.	{{1}}和{{2}}昨天被替换了。
+en	{{2}} data shows the {{3}} is too high.	{{2}}数据显示{{3}}太高。
+en	We need to tune the {{1}} before deployment.	我们需要在部署前调整{{1}}。
+en	Send me the {{3}} report by Friday.	在周五之前把{{3}}报告发给我。
+en	{{1}} failed after the firmware update.	{{1}}固件更新后失败。
+zh	检查__T1__的冲次和冲程。	Check the rush and stroke of __T1__.
+zh	今天__T1__的__T2__偏高，需要调整。	Today's __T1__'s __T2__ is high and needs to be adjusted.
+zh	请把__T2__数据和__T3__一起发给我。	Please send me the __T2__ data together with __T3__.
+zh	__T1__停机后，__T3__显示供液不足。	After __T1__ shutdown, __T3__ shows that the liquid supply is insufficient.
+zh	联合站的__T2__已经上传到平台。	The __T2__ of the joint station has been uploaded to the platform.
+zh	这口井的__T3__有问题。	There is a problem with the __T3__ of this well.
+en	Please check the __T1__ on well 12.	请检查井12上的__T1__。
+en	The __T1__ and the __T2__ were replaced yesterday.	昨天更换了__T1__和__T2__。
+en	__T2__ data shows the __T3__ is too high.	__T2__数据显示__T3__过高。
+en	We need to tune the __T1__ before deployment.	我们需要在部署之前调整__T1__。
+en	Send me the __T3__ report by Friday.	在周五之前把__T3__报告发给我。
+en	__T1__ failed after the firmware update.	__T1__固件更新后失败。
+zh	检查#T1#的冲次和冲程。	Check the punch and stroke of #T1#.
+zh	今天#T1#的#T2#偏高，需要调整。	Today, #T2# of #T1# is high and needs to be adjusted.
+zh	请把#T2#数据和#T3#一起发给我。	Please send me the #T2# data together with #T3#.
+zh	#T1#停机后，#T3#显示供液不足。	After #T1# shutdown, #T3# shows insufficient liquid supply.
+zh	联合站的#T2#已经上传到平台。	The #T2# of the joint station has been uploaded to the platform.
+zh	这口井的#T3#有问题。	There is something wrong with the #T3# of this well.
+en	Please check the #T1# on well 12.	请检查井12上的#T1#。
+en	The #T1# and the #T2# were replaced yesterday.	#T1#和#T2#昨天被替换了。
+en	#T2# data shows the #T3# is too high.	#T2# 数据显示 #T3# 过高。
+en	We need to tune the #T1# before deployment.	在部署之前，我们需要调整#T1#。
+en	Send me the #T3# report by Friday.	在周五之前把#T3#报告发给我。
+en	#T1# failed after the firmware update.	#T1# 固件更新后失败。
+zh	检查TERM1的冲次和冲程。	Check the punch and stroke of TERM1.
+zh	今天TERM1的TERM2偏高，需要调整。	TODAY, THE TERM2 OF TERM1 IS HIGH AND NEEDS TO BE ADJUSTED.
+zh	请把TERM2数据和TERM3一起发给我。	Please send me the TERM2 data together with TERM3.
+zh	TERM1停机后，TERM3显示供液不足。	After TERM1 is shut down, TERM3 shows that the liquid supply is insufficient.
+zh	联合站的TERM2已经上传到平台。	The TERM2 of the joint station has been uploaded to the platform.
+zh	这口井的TERM3有问题。	THERE IS SOMETHING WRONG WITH THE TERM3 OF THIS WELL.
+en	Please check the TERM1 on well 12.	请在井12上检查TERM1。
+en	The TERM1 and the TERM2 were replaced yesterday.	TERM1和TERM2昨天被替换了。
+en	TERM2 data shows the TERM3 is too high.	TERM2数据显示TERM3过高。
+en	We need to tune the TERM1 before deployment.	我们需要在部署前调整TERM1。
+en	Send me the TERM3 report by Friday.	在周五之前把TERM3报告发给我。
+en	TERM1 failed after the firmware update.	TERM1在固件更新后失败。
+zh	检查Q1Z7的冲次和冲程。	Check the punch and stroke of Q1Z7.
+zh	今天Q1Z7的Q2Z7偏高，需要调整。	Today's Q2Z7 of Q1Z7 is high and needs to be adjusted.
+zh	请把Q2Z7数据和Q3Z7一起发给我。	Please send me the Q2Z7 data together with Q3Z7.
+zh	Q1Z7停机后，Q3Z7显示供液不足。	After Q1Z7 stopped, Q3Z7 showed insufficient liquid supply.
+zh	联合站的Q2Z7已经上传到平台。	Q2Z7 of the joint station has been uploaded to the platform.
+zh	这口井的Q3Z7有问题。	There is something wrong with the Q3Z7 of this well.
+en	Please check the Q1Z7 on well 12.	请检查井12上的Q1Z7。
+en	The Q1Z7 and the Q2Z7 were replaced yesterday.	Q1Z7和Q2Z7昨天被更换了。
+en	Q2Z7 data shows the Q3Z7 is too high.	Q2Z7数据显示Q3Z7太高了。
+en	We need to tune the Q1Z7 before deployment.	我们需要在部署前调整Q1Z7。
+en	Send me the Q3Z7 report by Friday.	在周五之前把Q3Z7报告发给我。
+en	Q1Z7 failed after the firmware update.	Q1Z7在固件更新后失败。
+zh	检查抽油机的冲次和冲程。	Check the punch and stroke of the oil pump.
+zh	检查pumping unit的冲次和冲程。	Check the punch and stroke of the pumping unit.
+zh	今天抽油机的含水率偏高，需要调整。	Today, the water content of the oil pump is high and needs to be adjusted.
+zh	今天pumping unit的water cut偏高，需要调整。	Today, the water cut of the pumping unit is high and needs to be adjusted.
+zh	请把含水率数据和示功图一起发给我。	Please send me the water content data and the work diagram together.
+zh	请把water cut数据和dynamometer card一起发给我。	Please send me the water cut data and the dynamometer card together.
+zh	抽油机停机后，示功图显示供液不足。	After the pump is stopped, the power diagram shows that the liquid supply is insufficient.
+zh	pumping unit停机后，dynamometer card显示供液不足。	After the pumping unit was shut down, the dynamometer card showed that the water supply was insufficient.
+zh	联合站的含水率已经上传到平台。	The water content of the joint station has been uploaded to the platform.
+zh	联合站的water cut已经上传到平台。	The water cut of the joint station has been uploaded to the platform.
+zh	这口井的示功图有问题。	There is something wrong with the demonstration diagram of this well.
+zh	这口井的dynamometer card有问题。	There is a problem with the dynamometer card of this well.
+en	Please check the sucker rod pump on well 12.	请检查12号井上的吸杆泵。
+en	Please check the 抽油泵 on well 12.	请检查12号井的抽油泵。
+en	The sucker rod pump and the water cut were replaced yesterday.	昨天更换了吸杆泵和断水器。
+en	The 抽油泵 and the 含水率 were replaced yesterday.	抽油泵和含水率昨天被更换了。
+en	water cut data shows the dynamometer card is too high.	断水数据显示测力计卡过高。
+en	含水率 data shows the 示功图 is too high.	含水率数据显示示功图过高。
+en	We need to tune the sucker rod pump before deployment.	在部署之前，我们需要调整吸杆泵。
+en	We need to tune the 抽油泵 before deployment.	我们需要在部署前调整抽油泵。
+en	Send me the dynamometer card report by Friday.	在周五之前把测力计卡报告发给我。
+en	Send me the 示功图 report by Friday.	周五之前把示功图报告发给我。
+en	sucker rod pump failed after the firmware update.	固件更新后，吸杆泵出现故障。
+en	抽油泵 failed after the firmware update.	固件更新后抽油泵失败。

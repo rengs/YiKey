@@ -1,0 +1,144 @@
+zh	检查⟦T1⟧的冲次和冲程。
+zh	今天⟦T1⟧的⟦T2⟧偏高，需要调整。
+zh	请把⟦T2⟧数据和⟦T3⟧一起发给我。
+zh	⟦T1⟧停机后，⟦T3⟧显示供液不足。
+zh	联合站的⟦T2⟧已经上传到平台。
+zh	这口井的⟦T3⟧有问题。
+en	Please check the ⟦T1⟧ on well 12.
+en	The ⟦T1⟧ and the ⟦T2⟧ were replaced yesterday.
+en	⟦T2⟧ data shows the ⟦T3⟧ is too high.
+en	We need to tune the ⟦T1⟧ before deployment.
+en	Send me the ⟦T3⟧ report by Friday.
+en	⟦T1⟧ failed after the firmware update.
+zh	检查XZQT1的冲次和冲程。
+zh	今天XZQT1的XZQT2偏高，需要调整。
+zh	请把XZQT2数据和XZQT3一起发给我。
+zh	XZQT1停机后，XZQT3显示供液不足。
+zh	联合站的XZQT2已经上传到平台。
+zh	这口井的XZQT3有问题。
+en	Please check the XZQT1 on well 12.
+en	The XZQT1 and the XZQT2 were replaced yesterday.
+en	XZQT2 data shows the XZQT3 is too high.
+en	We need to tune the XZQT1 before deployment.
+en	Send me the XZQT3 report by Friday.
+en	XZQT1 failed after the firmware update.
+zh	检查XZQ1的冲次和冲程。
+zh	今天XZQ1的XZQ2偏高，需要调整。
+zh	请把XZQ2数据和XZQ3一起发给我。
+zh	XZQ1停机后，XZQ3显示供液不足。
+zh	联合站的XZQ2已经上传到平台。
+zh	这口井的XZQ3有问题。
+en	Please check the XZQ1 on well 12.
+en	The XZQ1 and the XZQ2 were replaced yesterday.
+en	XZQ2 data shows the XZQ3 is too high.
+en	We need to tune the XZQ1 before deployment.
+en	Send me the XZQ3 report by Friday.
+en	XZQ1 failed after the firmware update.
+zh	检查ZQXA的冲次和冲程。
+zh	今天ZQXA的ZQXB偏高，需要调整。
+zh	请把ZQXB数据和ZQXC一起发给我。
+zh	ZQXA停机后，ZQXC显示供液不足。
+zh	联合站的ZQXB已经上传到平台。
+zh	这口井的ZQXC有问题。
+en	Please check the ZQXA on well 12.
+en	The ZQXA and the ZQXB were replaced yesterday.
+en	ZQXB data shows the ZQXC is too high.
+en	We need to tune the ZQXA before deployment.
+en	Send me the ZQXC report by Friday.
+en	ZQXA failed after the firmware update.
+zh	检查[T1]的冲次和冲程。
+zh	今天[T1]的[T2]偏高，需要调整。
+zh	请把[T2]数据和[T3]一起发给我。
+zh	[T1]停机后，[T3]显示供液不足。
+zh	联合站的[T2]已经上传到平台。
+zh	这口井的[T3]有问题。
+en	Please check the [T1] on well 12.
+en	The [T1] and the [T2] were replaced yesterday.
+en	[T2] data shows the [T3] is too high.
+en	We need to tune the [T1] before deployment.
+en	Send me the [T3] report by Friday.
+en	[T1] failed after the firmware update.
+zh	检查{{1}}的冲次和冲程。
+zh	今天{{1}}的{{2}}偏高，需要调整。
+zh	请把{{2}}数据和{{3}}一起发给我。
+zh	{{1}}停机后，{{3}}显示供液不足。
+zh	联合站的{{2}}已经上传到平台。
+zh	这口井的{{3}}有问题。
+en	Please check the {{1}} on well 12.
+en	The {{1}} and the {{2}} were replaced yesterday.
+en	{{2}} data shows the {{3}} is too high.
+en	We need to tune the {{1}} before deployment.
+en	Send me the {{3}} report by Friday.
+en	{{1}} failed after the firmware update.
+zh	检查__T1__的冲次和冲程。
+zh	今天__T1__的__T2__偏高，需要调整。
+zh	请把__T2__数据和__T3__一起发给我。
+zh	__T1__停机后，__T3__显示供液不足。
+zh	联合站的__T2__已经上传到平台。
+zh	这口井的__T3__有问题。
+en	Please check the __T1__ on well 12.
+en	The __T1__ and the __T2__ were replaced yesterday.
+en	__T2__ data shows the __T3__ is too high.
+en	We need to tune the __T1__ before deployment.
+en	Send me the __T3__ report by Friday.
+en	__T1__ failed after the firmware update.
+zh	检查#T1#的冲次和冲程。
+zh	今天#T1#的#T2#偏高，需要调整。
+zh	请把#T2#数据和#T3#一起发给我。
+zh	#T1#停机后，#T3#显示供液不足。
+zh	联合站的#T2#已经上传到平台。
+zh	这口井的#T3#有问题。
+en	Please check the #T1# on well 12.
+en	The #T1# and the #T2# were replaced yesterday.
+en	#T2# data shows the #T3# is too high.
+en	We need to tune the #T1# before deployment.
+en	Send me the #T3# report by Friday.
+en	#T1# failed after the firmware update.
+zh	检查TERM1的冲次和冲程。
+zh	今天TERM1的TERM2偏高，需要调整。
+zh	请把TERM2数据和TERM3一起发给我。
+zh	TERM1停机后，TERM3显示供液不足。
+zh	联合站的TERM2已经上传到平台。
+zh	这口井的TERM3有问题。
+en	Please check the TERM1 on well 12.
+en	The TERM1 and the TERM2 were replaced yesterday.
+en	TERM2 data shows the TERM3 is too high.
+en	We need to tune the TERM1 before deployment.
+en	Send me the TERM3 report by Friday.
+en	TERM1 failed after the firmware update.
+zh	检查Q1Z7的冲次和冲程。
+zh	今天Q1Z7的Q2Z7偏高，需要调整。
+zh	请把Q2Z7数据和Q3Z7一起发给我。
+zh	Q1Z7停机后，Q3Z7显示供液不足。
+zh	联合站的Q2Z7已经上传到平台。
+zh	这口井的Q3Z7有问题。
+en	Please check the Q1Z7 on well 12.
+en	The Q1Z7 and the Q2Z7 were replaced yesterday.
+en	Q2Z7 data shows the Q3Z7 is too high.
+en	We need to tune the Q1Z7 before deployment.
+en	Send me the Q3Z7 report by Friday.
+en	Q1Z7 failed after the firmware update.
+zh	检查抽油机的冲次和冲程。
+zh	检查pumping unit的冲次和冲程。
+zh	今天抽油机的含水率偏高，需要调整。
+zh	今天pumping unit的water cut偏高，需要调整。
+zh	请把含水率数据和示功图一起发给我。
+zh	请把water cut数据和dynamometer card一起发给我。
+zh	抽油机停机后，示功图显示供液不足。
+zh	pumping unit停机后，dynamometer card显示供液不足。
+zh	联合站的含水率已经上传到平台。
+zh	联合站的water cut已经上传到平台。
+zh	这口井的示功图有问题。
+zh	这口井的dynamometer card有问题。
+en	Please check the sucker rod pump on well 12.
+en	Please check the 抽油泵 on well 12.
+en	The sucker rod pump and the water cut were replaced yesterday.
+en	The 抽油泵 and the 含水率 were replaced yesterday.
+en	water cut data shows the dynamometer card is too high.
+en	含水率 data shows the 示功图 is too high.
+en	We need to tune the sucker rod pump before deployment.
+en	We need to tune the 抽油泵 before deployment.
+en	Send me the dynamometer card report by Friday.
+en	Send me the 示功图 report by Friday.
+en	sucker rod pump failed after the firmware update.
+en	抽油泵 failed after the firmware update.

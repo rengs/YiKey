@@ -1,0 +1,30 @@
+# 构建产物
+.build/
+build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.app
+*.zip
+*.tgz
+*.dmg
+
+# 签名材料（绝不提交）
+*.p12
+*.pem
+*.key
+*.cer
+*.keychain
+*.keychain-db
+keychain.pass
+signing/
+
+# 用户数据与日志
+glossary.csv
+!Resources/Glossaries/*.csv
+vocabulary*.json
+*.log
+probe/*.out.tmp
+
+# 系统
+.DS_Store
+.swiftpm/
