@@ -31,6 +31,7 @@ curl -fsSL https://raw.githubusercontent.com/rengs/YiKey/main/install.sh | bash
 - [隐私与离线](#隐私与离线)
 - [系统要求](#系统要求)
 - [安装](#安装)
+- [安装常见问题](#安装常见问题)
 - [专业词库与我的词表](#专业词库与我的词表)
 - [项目结构](#项目结构)
 - [开发与测试](#开发与测试)
@@ -116,7 +117,7 @@ YiKey 把这一串压缩成：
 
 - macOS 15 或更高（推荐；macOS 14 没有可编程的系统翻译 API，只能用可选的在线备用）。
 - Apple Silicon（arm64）。
-- Xcode 命令行工具（`xcode-select --install`）或 Xcode 16+，Swift 6。
+- Swift 6.0 或更高：Xcode 16+，或较新的 Xcode 命令行工具（`xcode-select --install`）。装了 Xcode 时安装脚本会自动用它编译。
 
 ## 安装
 
@@ -164,6 +165,34 @@ bash scripts/install.sh         # 复制到 ~/Library/Input Methods
 
 项目目前沿用占位 Bundle ID `com.example.inputmethod.TranslateIME`（应用名也仍是 TranslateIME），以免已安装用户的辅助功能授权失效。
 如果你要自己分发，可以把 `Resources/Info.plist`、`Resources/*.lproj/InfoPlist.strings`、`Sources/TranslateIME/main.swift`、`scripts/build.sh` 里的 `com.example.inputmethod.TranslateIME` 全部替换成你自己的 ID（替换后需重新添加输入法并重新授权）。
+
+## 安装常见问题
+
+日志：每次运行 `install.sh` 的完整输出都写在 `~/Library/Logs/TranslateIME/install-<时间>.log`，出错时终端只显示关键行和日志路径。
+
+**1. `Invalid manifest` / `Undefined symbols … PackageDescription.Package.__allocating_init(…)`，编译器路径是 `/Library/Developer/CommandLineTools`**
+
+这是 **Xcode 命令行工具损坏或升级不完整**：`swiftc` 和它自带的 `PackageDescription` 库版本对不上，任何 Swift 包的 `Package.swift` 都编译不了，跟本项目代码无关。
+`install.sh` 会在编译前先做预检（`swift package dump-package`），遇到这种情况直接给出修法并退出。修法任选其一：
+
+- **装了 Xcode**：脚本发现 `xcode-select` 指向命令行工具、而 `/Applications/Xcode*.app` 存在时，会自动给本次编译设置 `DEVELOPER_DIR` 使用 Xcode（不修改 `xcode-select`、不用 sudo）。也可以手动指定：
+  ```bash
+  DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer ./install.sh
+  ```
+- **没装 Xcode**：重装命令行工具（这两条需要你自己在终端运行，安装脚本绝不会执行 sudo）：
+  ```bash
+  sudo rm -rf /Library/Developer/CommandLineTools
+  xcode-select --install
+  ```
+  装完后重新运行 `./install.sh`。
+
+**2. `You have not agreed to the Xcode license`**：打开一次 Xcode 同意许可协议（或运行 `sudo xcodebuild -license accept`），再运行 `./install.sh`。
+
+**3. `需要 Swift 6.0 或更高`**：项目的 `Package.swift` 使用 `swift-tools-version:6.0`（语言模式仍是 Swift 5），需要 Xcode 16+ 或对应版本的命令行工具。
+
+**4. 输入法列表里找不到 Translate IME**：注销并重新登录一次；确认 `~/Library/Input Methods/TranslateIME.app` 存在。
+
+**5. 每次重装都要重新打开“辅助功能”**：说明没有用上本机证书（用了 `--no-sign` 或证书创建失败）。运行 `bash scripts/setup_signing.sh` 后重新 `./install.sh`，再在 系统设置 › 隐私与安全性 › 辅助功能 里把旧的 TranslateIME 删掉重新添加一次，之后不再需要。
 
 ## 专业词库与我的词表
 

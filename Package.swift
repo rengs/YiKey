@@ -1,4 +1,5 @@
-// swift-tools-version:5.9
+// swift-tools-version:6.0
+// 需要 Swift 6.0+（Xcode 16+ 或对应的命令行工具）。语言模式保持 Swift 5（swiftLanguageModes），不启用 Swift 6 严格并发检查。
 import PackageDescription
 
 let package = Package(
@@ -11,5 +12,6 @@ let package = Package(
         // IME 外壳：IMKInputController、浮窗 UI、Apple Translation 桥、热键
         .executableTarget(name: "TranslateIME", dependencies: ["IMECore"], path: "Sources/TranslateIME"),
         .testTarget(name: "IMECoreTests", dependencies: ["IMECore"], path: "Tests/IMECoreTests"),
-    ]
+    ],
+    swiftLanguageModes: [.v5]
 )
